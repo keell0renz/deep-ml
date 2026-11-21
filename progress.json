@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T05:05:36.714Z",
+  "generated_at": "2026-11-21T05:21:40.380Z",
   "items": {
     "problem:121": {
       "kind": "problem",
@@ -384,6 +384,19 @@
       "path": "math/0032-softmax-and-cross-entropy",
       "first_solved_at": "2026-09-29T06:19:00.374Z",
       "last_pushed_at": "2026-09-29T06:19:00.374Z"
+    },
+    "problem:8": {
+      "kind": "problem",
+      "id": "8",
+      "title": "Calculate 2x2 Matrix Inverse",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/8",
+      "path": "problems/0008-calculate-2x2-matrix-inverse",
+      "first_solved_at": "2026-11-21T05:21:39.811Z",
+      "last_pushed_at": "2026-11-21T05:21:39.811Z",
+      "language": "python",
+      "lines": 29
     }
   }
 }
