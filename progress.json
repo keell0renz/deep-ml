@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T09:33:45.768Z",
+  "generated_at": "2026-11-22T09:34:58.137Z",
   "items": {
     "problem:121": {
       "kind": "problem",
@@ -536,6 +536,19 @@
       "last_pushed_at": "2026-11-22T09:33:45.048Z",
       "language": "python",
       "lines": 11
+    },
+    "problem:354": {
+      "kind": "problem",
+      "id": "354",
+      "title": "Handle Missing Data with Imputation",
+      "difficulty": "medium",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/354",
+      "path": "problems/0354-handle-missing-data-with-imputation",
+      "first_solved_at": "2026-11-22T09:34:57.504Z",
+      "last_pushed_at": "2026-11-22T09:34:57.504Z",
+      "language": "python",
+      "lines": 26
     }
   }
 }
