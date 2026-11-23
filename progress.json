@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T13:27:26.971Z",
+  "generated_at": "2026-11-23T13:28:34.896Z",
   "items": {
     "problem:121": {
       "kind": "problem",
@@ -586,6 +586,17 @@
       "path": "math/0016-eigendecomposition-and-svd",
       "first_solved_at": "2026-11-23T13:27:26.258Z",
       "last_pushed_at": "2026-11-23T13:27:26.258Z"
+    },
+    "math:22": {
+      "kind": "math",
+      "id": "22",
+      "title": "Common Distributions II: Normal, Poisson, Exponential",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/22",
+      "path": "math/0022-common-distributions-ii-normal-poisson-exponential",
+      "first_solved_at": "2026-11-23T13:28:34.272Z",
+      "last_pushed_at": "2026-11-23T13:28:34.272Z"
     }
   }
 }

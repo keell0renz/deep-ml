@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**48** solved · 27 problems · 2 labs · 19 math
+**49** solved · 27 problems · 2 labs · 20 math
 
 ![Coverage](./coverage.svg)
 
@@ -59,6 +59,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Probability Fundamentals](https://www.deep-ml.com/math-problems/19) | easy | 2026-09-28 | [solution](math/0019-probability-fundamentals) |
 | [Backpropagation and the Chain Rule](https://www.deep-ml.com/math-problems/4) | medium | 2026-09-29 | [solution](math/0004-backpropagation-and-the-chain-rule) |
 | [Bayesian Linear Regression: Posterior and Posterior Predictive](https://www.deep-ml.com/math-problems/454) | medium | 2026-11-21 | [solution](math/0454-bayesian-linear-regression-posterior-and-posterior-predictive) |
+| [Common Distributions II: Normal, Poisson, Exponential](https://www.deep-ml.com/math-problems/22) | medium | 2026-11-23 | [solution](math/0022-common-distributions-ii-normal-poisson-exponential) |
 | [Covariance and Correlation](https://www.deep-ml.com/math-problems/17) | medium | 2026-09-29 | [solution](math/0017-covariance-and-correlation) |
 | [Determinants and Trace](https://www.deep-ml.com/math-problems/11) | medium | 2026-09-29 | [solution](math/0011-determinants-and-trace) |
 | [Inverse and Rank](https://www.deep-ml.com/math-problems/12) | medium | 2026-09-29 | [solution](math/0012-inverse-and-rank) |
