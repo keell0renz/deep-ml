@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**52** solved · 27 problems · 2 labs · 23 math
+**53** solved · 27 problems · 2 labs · 24 math
 
 ![Coverage](./coverage.svg)
 
@@ -74,6 +74,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Solving Linear Systems](https://www.deep-ml.com/math-problems/13) | medium | 2026-09-29 | [solution](math/0013-solving-linear-systems) |
 | [Eigendecomposition and SVD](https://www.deep-ml.com/math-problems/16) | hard | 2026-11-23 | [solution](math/0016-eigendecomposition-and-svd) |
 | [KL Divergence](https://www.deep-ml.com/math-problems/25) | hard | 2026-11-26 | [solution](math/0025-kl-divergence) |
+| [Maximum Likelihood and MAP](https://www.deep-ml.com/math-problems/26) | hard | 2026-11-26 | [solution](math/0026-maximum-likelihood-and-map) |
 
 ---
 

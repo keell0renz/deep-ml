@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T09:57:01.231Z",
+  "generated_at": "2026-11-26T10:01:33.187Z",
   "items": {
     "problem:121": {
       "kind": "problem",
@@ -630,6 +630,17 @@
       "path": "math/0025-kl-divergence",
       "first_solved_at": "2026-11-26T09:57:00.486Z",
       "last_pushed_at": "2026-11-26T09:57:00.486Z"
+    },
+    "math:26": {
+      "kind": "math",
+      "id": "26",
+      "title": "Maximum Likelihood and MAP",
+      "difficulty": "hard",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/26",
+      "path": "math/0026-maximum-likelihood-and-map",
+      "first_solved_at": "2026-11-26T10:01:32.463Z",
+      "last_pushed_at": "2026-11-26T10:01:32.463Z"
     }
   }
 }
