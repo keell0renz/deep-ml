@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T09:49:45.296Z",
+  "generated_at": "2026-11-26T09:53:04.740Z",
   "items": {
     "problem:121": {
       "kind": "problem",
@@ -608,6 +608,17 @@
       "path": "math/0036-multivariate-gaussians",
       "first_solved_at": "2026-11-26T09:49:44.622Z",
       "last_pushed_at": "2026-11-26T09:49:44.622Z"
+    },
+    "math:24": {
+      "kind": "math",
+      "id": "24",
+      "title": "Information Theory: Entropy",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/24",
+      "path": "math/0024-information-theory-entropy",
+      "first_solved_at": "2026-11-26T09:53:04.013Z",
+      "last_pushed_at": "2026-11-26T09:53:04.013Z"
     }
   }
 }
